@@ -1,0 +1,31 @@
+table{
+    background-color: rgb(168, 205, 130);
+    font-family: Arial, Helvetica, sans-serif;
+    width: 70%;
+    height: 50%;
+    text-align: center;
+    padding: 8px;
+    border: solid double black;
+    
+}
+
+
+th:hover{
+    color: rgb(96, 9, 247);
+    cursor: pointer;
+    font-size: xx-large;
+    text-transform: uppercase;
+    background-color: yellow;
+    
+
+
+
+}
+tr:hover{
+    color: rgb(30, 231, 50);
+    cursor: pointer;
+    font-size: x-large;
+    text-transform: uppercase;
+    background-color: rgb(17, 17, 17);
+}
+
